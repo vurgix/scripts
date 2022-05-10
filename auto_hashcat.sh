@@ -1,4 +1,5 @@
 #!/bin/bash
+#con wak sacar los numeros de hashcat
 NUMS=(`cat nums`)
 
 CONT=${#NUMS[@]}
